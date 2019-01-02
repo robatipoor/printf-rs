@@ -1,0 +1,10 @@
+[package]
+name = "printf-rs"
+version = "0.1.0"
+authors = ["robatioor <mahdi.robatipoor@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2.45"
+lazy_static = "1.2.0"
+rand = "0.6.1"
