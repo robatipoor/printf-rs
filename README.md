@@ -1,13 +1,13 @@
-# prinf in rust
+### prinf in rust
 
-## add to Cargo.toml dependencies
+### add to Cargo.toml dependencies
 
 ```toml
 [dependencies]
 printf-rs = "0.1.0"
 ```
 
-## Example
+### Example
 
 ```rust
 use printf_rs::*;
