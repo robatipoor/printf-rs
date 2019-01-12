@@ -5,7 +5,7 @@
 
 ```toml
 [dependencies]
-printf-rs = "0.1.0"
+printf-rs = "0.1.1"
 libc = "0.2.46"
 ```
 
