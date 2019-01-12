@@ -1,5 +1,6 @@
 use lazy_static::lazy_static;
-use libc::{c_char, c_int, FILE};
+// use libc::{c_char, c_int, FILE};
+use libc::*;
 
 extern "C" {
 

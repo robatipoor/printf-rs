@@ -6,6 +6,7 @@
 ```toml
 [dependencies]
 printf-rs = "0.1.0"
+libc = "0.2.46"
 ```
 
 #### Example 1
