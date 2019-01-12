@@ -6,7 +6,7 @@ homepage = "https://github.com/robatipoor/printf-rs"
 keywords = ["clang", "print","format","printf"]
 license = "MIT"
 repository = "https://github.com/robatipoor/printf-rs"
-authors = ["Mahdi <Mahdi.robatipoor@gmail.com>"]
+authors = ["Mahdi Robatipoor <Mahdi.robatipoor@gmail.com>"]
 documentation = "https://github.com/robatipoor/printf-rs"
 readme = "README.md"
 categories = ["print"]
@@ -15,4 +15,6 @@ edition = "2018"
 [dependencies]
 libc = "0.2.46"
 lazy_static = "1.2.0"
+
+[dev-dependencies]
 rand = "0.6.4"
